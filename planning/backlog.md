@@ -1,30 +1,15 @@
 # Backlog
 
-A collection of user stories you can choose from. Stories inside each priority
-level are not necessarily in order, it's up to your group to decide how they fit
-into your strategy. These are also just suggestion, feel free to change them or
-create your own!
-
 ## Must-Haves
 
-> these are necessary for basic usability
-
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- [ ] As a regular customer I want to see clear navigation to quickly select and
+      order flower arrangements.
 
 ## Should-Haves
 
-> these will complete the user experience, but are not necessary
-
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- [ ] As a regular customer I want fast and high-quality delivery.
 
 ## Could-Haves
 
-> would be really cool ... if there's time
-
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- [ ] As a regular customer I want to be able to order individual flower
+      arrangements according to my own sketch.
